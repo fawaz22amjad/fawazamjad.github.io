@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Fawaz Amjad | GIS Analyst</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+    body {
+        font-family: "Inter", Arial, sans-serif;
+        margin: 0;
+        background: #f5f7fa;
+        color: #222;
+    }
+
+    .container {
+        max-width: 900px;
+        margin: 40px auto;
+        background: #fff;
+        padding: 40px 60px;
+        border-radius: 14px;
+        box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+        font-size: 42px;
+        margin-bottom: 5px;
+        color: #1a3d7c;
+        font-weight: 700;
+    }
+
+    h2 {
+        margin-top: 40px;
+        color: #1a3d7c;
+        border-left: 6px solid #1a3d7c;
+        padding-left: 12px;
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+    h3 {
+        margin-top: 20px;
+        color: #333;
+        font-size: 19px;
+        font-weight: 600;
+    }
+
+    .contact a {
+        color: #1a3d7c;
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+    ul {
+        margin-top: 8px;
+        line-height: 1.6;
+    }
+
+    .tag-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 10px;
+        margin-top: 15px;
+    }
+
+    .tag {
+        background: #e8eef7;
+        padding: 8px 14px;
+        border-radius: 8px;
+        font-size: 14px;
+        font-weight: 600;
+        color: #1a3d7c;
+        display: inline-block;
+    }
+
+    @media (max-width: 700px) {
+        .container {
+            padding: 25px;
+        }
+        h1 { font-size: 32px; }
+    }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Fawaz Amjad</h1>
+
+<div class="contact">
+    <p>
+        <strong>Email:</strong> <a href="mailto:fawaz22amjad@gmail.com">fawaz22amjad@gmail.com</a><br>
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/fawazamjad" target="_blank">linkedin.com/in/fawazamjad</a>
+    </p>
+</div>
+
+<h2>GIS Analyst • Geospatial Data Management • Spatial Analysis • Cartography</h2>
+
+<p>GIS Analyst with more than two years of experience supporting federal and commercial projects through geospatial data management, spatial analysis, cartographic production, and GIS database maintenance. Experienced with ESRI ArcGIS Pro, QGIS, and web-based mapping technologies supporting transportation, environmental, infrastructure, planning, engineering, and sustainability initiatives.</p>
+
+<p>Recognized for delivering accurate, high-quality GIS products while meeting demanding project schedules. Skilled in spatial data editing, geodatabase management, feature extraction, cartographic design, web mapping, data visualization, and workflow improvement.</p>
+
+<h2>Core GIS Expertise</h2>
+<div class="tag-grid">
+    <div class="tag">ArcGIS Pro</div>
+    <div class="tag">ArcMap Desktop</div>
+    <div class="tag">GIS Data Editing</div>
+    <div class="tag">Spatial Analysis</div>
+    <div class="tag">Geodatabase Management</div>
+    <div class="tag">Cartographic Design</div>
+    <div class="tag">QA/QC</div>
+    <div class="tag">Feature Extraction</div>
+    <div class="tag">Remote Sensing</div>
+    <div class="tag">Web Mapping</div>
+    <div class="tag">SQL</div>
+    <div class="tag">Metadata Management</div>
+</div>
+
+<h2>Technology Proficiency</h2>
+
+<h3>ESRI Applications</h3>
+<ul>
+<li>ArcGIS Pro, ArcMap Desktop, ArcGIS Enterprise, ArcGIS Field Maps (Familiarity)</li>
+</ul>
+
+<h3>Spatial Analysis & GIS Tools</h3>
+<ul>
+<li>Spatial Analysis, Spatial Querying, Geocoding, Cartographic Production, Topology Validation</li>
+<li>Geodatabase Management, Data Conversion, Metadata Management, GIS Quality Control</li>
+<li>Spatial Analyst (Familiarity), ModelBuilder (Familiarity)</li>
+</ul>
+
+<h3>Programming & Database Tools</h3>
+<ul>
+<li>Microsoft Excel, Tableau Desktop, Tableau Server</li>
+</ul>
+
+<h2>Professional Experience</h2>
+
+<h3>Syntelligent Analytic Solutions, LLC — Falls Church, VA<br>
+Project Specialist | GIS Analyst (Dec 2024 – Apr 2025)</h3>
+<ul>
+<li>Created, edited, and maintained geospatial datasets using QGIS.</li>
+<li>Processed 40–70+ geospatial features daily while maintaining strict quality standards.</li>
+<li>Performed feature extraction, attribute validation, and spatial data editing.</li>
+<li>Conducted topology reviews and QA/QC checks.</li>
+<li>Interpreted aerial imagery to update transportation and hydrographic features.</li>
+<li>Supported map development and cartographic production.</li>
+<li>Maintained metadata and documentation for data integrity.</li>
+<li>Collaborated with analysts and reviewers to resolve discrepancies.</li>
+</ul>
+
+<h3>Dynamis — Falls Church, VA<br>
+Junior Data Analyst (Remote) (Dec 2023 – Nov 2024)</h3>
+<ul>
+<li>Performed geocoding, spatial analysis, and validation using ArcGIS Pro.</li>
+<li>Created maps, dashboards, and visual reports using ArcGIS Pro, Tableau, and Excel.</li>
+<li>Integrated GIS datasets with SQL databases.</li>
+<li>Managed large datasets through SQL queries and QC processes.</li>
+<li>Produced cartographic products and analytical visualizations.</li>
+</ul>
+
+<h3>Geo Owl — Wilmington, NC<br>
+Geospatial Production Analyst (Remote) (Feb 2023 – Mar 2023)</h3>
+<ul>
+<li>Created and edited geospatial datasets from high-resolution imagery.</li>
+<li>Performed topology validation and QA/QC reviews.</li>
+<li>Supported map production and cartographic development.</li>
+</ul>
+
+<h3>Additional Experience</h3>
+<ul>
+<li>Associate Geospatial Analyst (Intern), Royce Geospatial Consultants (2022)</li>
+<li>Junior GIS Consultant, 1Spatial Inc. (2021)</li>
+<li>GIS Technician, ASRC Federal (2020)</li>
+</ul>
+
+<h2>GIS Projects & Technical Applications</h2>
+
+<h3>Satellite Imagery Feature Extraction & Spatial Analysis</h3>
+<p>Extracted, digitized, attributed, and validated transportation networks, terrain, vegetation, structures, and other features using ArcGIS Pro and high-resolution imagery. Conducted QA/QC reviews ensuring accuracy and compliance with project standards.</p>
+
+<h3>Transportation Network & Address Database Maintenance</h3>
+<p>Maintained and updated transportation, address, and boundary datasets within the U.S. Census Bureau’s MTDB. Resolved alignment conflicts and supported national mapping and census programs through rigorous validation workflows.</p>
+
+<h2>Education</h2>
+<p><strong>George Mason University</strong> — B.S. Geography (2019)</p>
+<p><strong>Northern Virginia Community College</strong> — A.S. Geospatial Specialization (2017)</p>
+
+<h2>Security Clearance</h2>
+<p>Active Secret Clearance</p>
+
+<h2>References</h2>
+<p>Available Upon Request</p>
+
+</div>
+
+</body>
+</html>
